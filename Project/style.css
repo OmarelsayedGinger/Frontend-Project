@@ -1,0 +1,612 @@
+    .do{
+    border-radius: 25px;
+}
+.color{
+    color:#FF5363;
+}
+.number{
+    color: #4B6691;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F7F9FE;
+}
+.homepage{
+    background-image: url(http://frontend.projects-amit-learning.com/images/shape-a.png);
+    background-size: contain;
+}
+.banner{
+    display: flex;
+    flex-wrap: wrap;
+}
+.banner-text{
+    color: #FF5363;
+}
+.font{
+    font-weight: 900 !important;
+    text-transform: uppercase;
+}
+.font1{
+    font-family:sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 10px;
+    right: 10px;
+    color: #FF5363;
+}
+.font2{
+    font-family:sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 20px;
+    right: 10px;
+    color: #4B6691;
+}
+.howto{
+    position: relative;
+    right: 5vw;
+    bottom: 15vh;
+}
+.howto1{
+    position: relative;
+    right: 5vw;
+    bottom: 15vh;
+}
+.weight{
+    font-size: 1.1rem;
+    position: relative;
+    bottom: 12vh;
+}
+.letters{
+    color: #7d92bb;
+}
+.numbers{
+    color: #4B6691;
+    font-size: larger;
+}
+.info{
+    position: relative;
+    bottom: 8vh;
+}
+.first-banner{
+    position: relative;
+    top: 20vh;
+}
+.ban{
+    color: #394B6C;
+}
+.font3{
+    color: #50658e;
+}
+.disc{
+font-weight: 900 !important;
+}
+.font4{
+    color: #3d4b69;
+}
+.trans{
+    background-color: #f7f9fe;
+}
+.font5{
+    color: #2a81ea;
+}
+.font6{
+    color: #73e3ff;
+}
+.font7{
+    color: #ced4ff;
+}
+.div1{
+    border-bottom: 6px solid;
+    border-color: #9cc2f7;
+}
+.round{
+    background-image: url(http://frontend.projects-amit-learning.com/images/symptom-a.png);
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    position: relative;
+    left: 200px;
+    top: -30px;
+}
+.round1{
+    background-image: url(http://frontend.projects-amit-learning.com/images/symptom-b.png);
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    position: relative;
+    left: 200px;
+    top: -30px;
+}
+.round2{
+    background-image: url(http://frontend.projects-amit-learning.com/images/symptom-c.png);
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    position: relative;
+    left: 200px;
+    top: -30px;
+}
+.section4{
+    background-color: #fcfcfc;
+}
+.div2{
+    position: relative;
+    bottom: 20%;
+    height: 8.125rem;
+}
+@media only screen and (max-width: 1399px) {
+    .div2 {
+        height: 150px;
+    }
+  }
+@media only screen and (min-width: 1399px) {
+    .maindiv {
+        height: 230px;
+    }
+  }
+@media only screen and (max-width: 1199px) {
+    .div2 {
+        height: 180px;
+    }
+  }
+@media only screen and (min-width: 991px) {
+    .round {
+        left: 200px;
+    }
+  }
+@media only screen and (min-width: 991px) {
+    .round1 {
+        left: 200px;
+    }
+  }
+@media only screen and (min-width: 991px) {
+    .round2 {
+        left: 200px;
+    }
+  }
+@media only screen and (min-width: 991px) {
+    .div4 {
+        width: 300px;
+    }
+  }
+@media only screen and (min-width: 991px) {
+    .maindiv {
+        width: 300px;
+    }
+  }
+@media only screen and (max-width: 991px) {
+    .div3 {
+        height: 140px;
+    }
+  }
+@media only screen and (max-width: 768px) {
+    .div2 {
+        height: 190px;
+        width: 250px;
+    }
+  }
+@media only screen and (max-width: 768px) {
+    .div3 {
+        
+        width: 250px;
+    }
+  }
+@media only screen and (max-width: 768px) {
+    .div6 {
+        
+        width: 270px;
+    }
+  }
+@media only screen and (max-width: 768px) {
+    .maindiv {
+        
+        width: 300px;
+    }
+  }
+@media only screen and (max-width: 768px) {
+    .round {
+        left: 200px;
+    }
+  }
+@media only screen and (max-width: 768px) {
+    .round1 {
+        left: 200px;
+    }
+  }
+@media only screen and (max-width: 768px) {
+    .round2 {
+        left: 200px;
+    }
+  }
+@media only screen and (max-width: 768px) {
+    .div4 {
+        height: 220px;
+        width: 300px;
+    }
+  }
+@media only screen and (max-width: 576px) {
+    .div2 {
+        height: 160px;
+    }
+  }
+@media only screen and (max-width: 506px) {
+    .div2 {
+        height: 170px;
+    }
+  }
+@media only screen and (max-width: 506px) {
+    .maindiv {
+        width: 300px;
+    }
+  }
+@media only screen and (max-width: 443px) {
+    .div2 {
+        height: 190px;
+    }
+  }
+@media only screen and (min-width: 1400px) {
+    .round {
+        left: 200px;
+    }
+  }
+@media only screen and (min-width: 1400px) {
+    .round1 {
+        left: 200px;
+    }
+  }
+@media only screen and (min-width: 1400px) {
+    .round2 {
+        left: 200px;
+    }
+  }
+  .image{
+      background-image: url(http://frontend.projects-amit-learning.com/images/advice-a.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 120px;
+      height: 120px;
+  }
+  .image1{
+      background-image: url(http://frontend.projects-amit-learning.com/images/advice-b.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 120px;
+      height: 120px;
+  }
+  .image2{
+      background-image: url(http://frontend.projects-amit-learning.com/images/advice-c.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 120px;
+      height: 120px;
+  }
+  .image3{
+      background-image: url(http://frontend.projects-amit-learning.com/images/advice-d.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 120px;
+      height: 120px;
+  }
+  .success{
+      color: #3dca93;
+  }
+  .edit{
+      width: 65%;
+      position: relative;
+      top: 30px;
+  }
+  @media only screen and (max-width: 1199px) {
+    .edit {
+        width: 85%;
+        position: relative;
+        top: 50px;
+        left: 30px;
+
+    }
+  }
+  @media only screen and (max-width: 1399px) {
+    .ready {
+        width: 55%;
+        position: relative;
+        top: 30px;
+    }
+  }
+  @media only screen and (max-width: 991px) {
+    .ready {
+        width: 100%;
+        position: relative;
+    }
+  }
+  @media only screen and (max-width: 991px) {
+    .edit {
+        position: relative;
+        top: -10px;
+    }
+  }
+.step{
+    background-image: url(http://frontend.projects-amit-learning.com/images/hand-a.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 122.1px;
+    height: 122.1px;
+}  
+.step1{
+    background-image: url(http://frontend.projects-amit-learning.com/images/hand-b.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 122.1px;
+    height: 122.1px;
+}  
+.step2{
+    background-image: url(http://frontend.projects-amit-learning.com/images/hand-c.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 122.1px;
+    height: 122.1px;
+}  
+.step3{
+    background-image: url(http://frontend.projects-amit-learning.com/images/hand-d.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 122.1px;
+    height: 122.1px;
+}  
+.step4{
+    background-image: url(http://frontend.projects-amit-learning.com/images/hand-e.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 122.1px;
+    height: 122.1px;
+}  
+.step5{
+    background-image: url(http://frontend.projects-amit-learning.com/images/hand-f.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 122.1px;
+    height: 122.1px;
+}
+.treat{
+    background-color: #2766bb;
+    background-image: url(http://frontend.projects-amit-learning.com/images/shape-a.png);
+    background-size: cover;
+    padding-bottom: 100px;
+}
+.selfcare{
+    background-color: #1b47a1;
+    width: 444px;
+}
+@media only screen and (max-width: 991px) {
+    .edit3 {
+        font-size: 13px;
+        text-align: center;
+        width: 131px;
+        height: 16.8;
+    }
+  }
+@media only screen and (max-width: 991px) and (min-width: 767px) {
+    .focus {
+        position: relative;
+        left: 20px;
+    }
+  }
+@media only screen and (max-width: 767px) {
+    .treat1 {
+        text-align: center;
+    }
+  }
+  .navbar-light :hover .navbar-nav :hover .nav-link.active, .navbar-light :hover .navbar-nav :hover .show> :hover .nav-link:hover{
+    color: #2a81ea;
+    font-weight: 500;
+}
+.wrong{
+    color: #f86168;
+    position: relative;
+    left: 20px;
+    z-index: 1;
+    background-color: #f7f9fe;  
+}
+.boximage1{
+    background-image: url(http://frontend.projects-amit-learning.com/images/donts-a.png);
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    position: relative;
+    outline: #2a81ea solid;
+}
+.boximage2{
+    background-image: url(http://frontend.projects-amit-learning.com/images/donts-b.png);
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    position: relative;
+    outline: #2a81ea solid;
+}
+.boximage3{
+    background-image: url(http://frontend.projects-amit-learning.com/images/donts-c.png);
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    position: relative;
+    outline: #2a81ea solid;
+}
+.boximage4{
+    background-image: url(http://frontend.projects-amit-learning.com/images/dos-a.png);
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    position: relative;
+    outline: #2a81ea solid;
+}
+.boximage5{
+    background-image: url(http://frontend.projects-amit-learning.com/images/dos-b.png);
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    position: relative;
+    outline: #2a81ea solid;
+}
+.boximage6{
+    background-image: url(http://frontend.projects-amit-learning.com/images/dos-c.png);
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    position: relative;
+    outline: #2a81ea solid;
+}
+.protection{
+    width: 555px;
+    height: 400px;
+    position: relative;
+    right: 10rem;
+}
+.successicon{
+    color: #3dca93;
+    position: relative;
+    left: 80px;
+    z-index: 1;
+    background-color: #f7f9fe;
+}
+.style{
+    font-size: 14px;
+}
+@media only screen and (max-width: 1399px) {
+    .protection {
+        right: 200px;
+    }
+  }
+@media only screen and (max-width: 1199px) {
+    .protection {
+        right: 200px;
+    }
+  }
+@media only screen and (max-width: 1199px) {
+    .style {
+        font-size: 12px;
+    }
+  }
+  .middle{
+      width: 100%;
+  }
+  .second{
+      padding-right: 100px;
+  }
+  @media only screen and (max-width: 1399px){
+.second{
+    padding-right: 0px;}
+
+    .leftbox{
+padding-right: 100px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .leftbox {
+        order: 2;
+    }
+    .middle {
+        order: 1;
+    }
+  .rightbox {
+    order: 3;
+ } 
+  } 
+@media only screen and (max-width: 575px) {
+    .leftbox {
+        text-align: center;
+        padding: 0px;
+    }
+  .rightbox {
+    padding: 0px;
+    text-align: center;
+ } 
+  }
+  .accordion-color{
+      background-color: #e7e8ff;
+  }
+  .accordion-text{
+      color: #465675;
+  }
+  .accordion-text1{
+      color: #465675;
+  }
+  .pointer{
+      cursor: pointer;
+  }
+  .bullet{
+      color: #2a81ea;
+    }
+    .button-style{
+        border: 2px solid #e7e8ff;
+        color: #50658e;
+        font-size: 16px;
+    }
+    .button-style:hover{
+      color: #2a81ea;
+      border-color: #2a81ea;
+  }
+    .first-button{
+      color: #2a81ea;
+      border-color: #2a81ea;
+  }
+  .toggle-icon:hover{
+    color: #2a81ea;
+    box-shadow: none;
+  }
+  .btn:focus,.btn:active {
+    outline: none !important;
+    box-shadow: none;
+ }
+ .button-shadow:focus, .button-shadow:active{
+    outline: none !important;
+    box-shadow: none;
+    
+ }
+ .change-style{
+    background-color: #e7e8ff;
+}
+ .accordion-text2{
+    color: #2a81ea;
+}
+.change-style-onclick{
+    background-color: #ffff;
+}
+ .news-text{
+    color: #465675;
+    font-size: 16px;
+    font-weight: 750;
+    cursor: pointer;
+}
+.news-text:hover{
+        color: #2a81ea; 
+}
+.background-dark{
+    background-color: #151c2e;
+    background-image: url(http://frontend.projects-amit-learning.com/images/shape-a.png);
+    background-size: cover;
+    padding-bottom: 100px;
+}
+.footer-font{
+    color: #b2bfe0;
+}
+.logo-font{
+    color: #50658e;
+}
+.facebook:hover{
+    color: #204eb3;
+}
+.twitter:hover{
+    color: #00acee;
+}
+.youtube:hover{
+    color: #FF0000;
+}
+.font-resize{
+    font-size: 13px;
+}
+.fixedbutton{
+    display: none;
+    position: fixed;
+    bottom: 3%;
+    right: 3%;
+    font-size: 2.5em !important;
+}
